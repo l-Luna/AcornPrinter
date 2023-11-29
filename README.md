@@ -1,0 +1,1 @@
+Simple program that outputs a PGM image of the "Acorn" GOL board within a given size. Made to test a GOL implementation.
